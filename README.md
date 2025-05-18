@@ -33,3 +33,7 @@
 IP或者域名/?admin
 
 密码默认123456
+
+3.docker拉取我搭建好的
+
+docker run -it --rm -p  82:80 --name wp xiaovsi/wp:1.0.0
